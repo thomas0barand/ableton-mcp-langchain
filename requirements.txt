@@ -1,0 +1,13 @@
+langchain==0.3.7
+langchain-google-genai==1.0.8
+langchain-community==0.3.7
+langchain-core==0.3.76
+langchain-ollama==0.2.0
+langchain-openai==0.2.8
+langchain-huggingface==0.1.0
+python-dotenv==1.0.1
+pypdf==4.2.0
+faiss-cpu==1.8.0
+pydantic>=2.7.4,<3.0.0
+transformers==4.44.0
+torch
