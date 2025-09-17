@@ -1,5 +1,5 @@
-Add memory to llm
-give access to all the tools in server.py ableton-mcp-extended
-github repo first commit
-giving access to documents ytb through RAG
-
+TODO List:
+- [ ] Make initial commit to GitHub repository
+- [ ] Add memory support to LLM
+- [ ] Expose all tools from `server.py` in `ableton-mcp-extended`
+- [ ] Enable document and YouTube access via RAG (Retrieval-Augmented Generation)
